@@ -1,5 +1,5 @@
-## Pricing Table 
-# Project Description
+# Pricing Table 
+## Project Description
 This is a responsive pricing table structured with CSS and HTML. This table provides information about three different pricing plans. And each card is styled wih a button that allows prospect buyers to make their purchases.
 
 ## Features
@@ -10,7 +10,7 @@ This is a responsive pricing table structured with CSS and HTML. This table prov
 ## How to use code
 - clone the repository or download the source files to your local machine.
 - open visual studio code or any other coding platform available to you.
-- Effect some changes in the html and Css files to suite your needs. for example, the <h3> and <P> tags can be changed. 
+- Effect some changes in the html and Css files to suite your needs. for example, the h3 and P tags can be changed. 
 - display on any browser on your local machine, Chrome or firefox. 
 
 ## Additions
